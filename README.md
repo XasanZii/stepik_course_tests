@@ -1,2 +1,5 @@
-# stepik_course_tests
-._.
+# stepik\_course\_tests
+
+.\_.
+Зачем я это делаю? А кто его знает...
+
